@@ -3,6 +3,9 @@
 Resources for process automation supplemental to presentation at Ruby Conf Mini 2022, _Zen and the Art of Incremental Automation_
 
 [Talk References](#references)
+[Supplemental Resources](#supplemental-resources)
+[Ruby tools for incremental automation](#ruby-tools-for-incremental-automation)
+[Personal Machine Automation](#personal-machine-automation)
 
 ## References
 
@@ -15,6 +18,12 @@ These articles greatly influenced the idea for and the content within the talk--
 * [Do-Nothing Scripting: the key to gradual automation - Dan Slimmon](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation)
 
 * [Gradual Automation in Ruby - Tomasz Wróbel](https://blog.arkency.com/gradual-automation-in-ruby/)
+
+## Supplemental Resources
+
+[Vintage Illustrations from my talk](https://oldbookillustrations.com)
+
+[Is it worth the time? (Because there's an XKCD for everything we do, right?)](https://xkcd.com/1205)
 
 ## Ruby tools for Incremental Automation
 
