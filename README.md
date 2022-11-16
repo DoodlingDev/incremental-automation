@@ -3,8 +3,11 @@
 Resources for process automation supplemental to presentation at Ruby Conf Mini 2022, _Zen and the Art of Incremental Automation_
 
 [Talk References](#references)
+
 [Supplemental Resources](#supplemental-resources)
+
 [Ruby tools for incremental automation](#ruby-tools-for-incremental-automation)
+
 [Personal Machine Automation](#personal-machine-automation)
 
 ## References
