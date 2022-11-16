@@ -2,6 +2,8 @@
 
 Resources for process automation supplemental to presentation at Ruby Conf Mini 2022, _Zen and the Art of Incremental Automation_
 
+[Talk References](#references)
+
 ## References
 
 These articles greatly influenced the idea for and the content within the talk--
